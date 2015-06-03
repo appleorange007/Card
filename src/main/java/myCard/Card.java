@@ -1,6 +1,4 @@
 package myCard;
-
-
 import java.awt.Graphics;
 import java.awt.Graphics2D;
 import java.awt.Image;
@@ -17,8 +15,10 @@ import java.awt.image.BufferedImage;
  * 
  *          Website: http://home.pacific.net.au/~cavenagh/SH/ Email: cavenaghweb@hotmail.com
  */
+
 public class Card
-{
+{     
+     ///test
     // Reference at bottom of class
     int cardSuit;
     int cardValue;
